@@ -1,0 +1,1 @@
+enum ProfileTabs { profile, history }
